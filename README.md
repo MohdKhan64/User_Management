@@ -62,4 +62,4 @@ INSERT INTO public.sre_ssp_user_role_mapping(
 	VALUES (1, 1);   
 
 ## ScreenShot of Swagger
-<img src="screenshot/image-1.png"/>
+<img src="screenshots/image-1.png"/>
